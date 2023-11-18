@@ -1,3 +1,5 @@
 # computer_graphics
 
-This are the files and codes for the CodeLabs for the unit, Computer Graphics.
+- These are the files and codes for the CodeLabs for the unit, Computer Graphics.
+- They include basic python codes and trial activities. 
+- Libraries used: pycairo and math
