@@ -52,4 +52,5 @@ context.paint()
 #sec_seg.draw_segment(context)
 
 #added changes
+#this draws the.required segments
 surface.write_to_png("sec_seg.png")
